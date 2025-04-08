@@ -9,7 +9,7 @@ export default function EducationSection() {
             </h3>
             <p className="text-gray-500 italic">FPT University, HCM | 2022 - 2026</p>
             <p className="text-gray-600 mt-1">GPA: 3.3/4.0</p>
-            <p className="text-gray-600">Thesis: "Advancements in Machine Learning for Web Applications"</p>
+            <p className="text-gray-600">Thesis: &quot;Advancements in Machine Learning for Web Applications&quot;</p>
           </div>
           <div>
             <h3 className="text-xl font-semibold text-gray-700">
