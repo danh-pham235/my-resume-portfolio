@@ -6,7 +6,7 @@ import ProfileSection from "@/components/Profile-Section";
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-gray-50 to-gray-200 text-gray-900 p-6 font-sans">
+    <div className="min-h-screen bg-gradient-to-b from-purple-100 via-blue-50 to-gray-200 text-gray-900 p-6 font-sans">
       {/* Header Section */}
       <div className="max-w-4xl mx-auto text-center mb-12">
         <div className="relative inline-block">
